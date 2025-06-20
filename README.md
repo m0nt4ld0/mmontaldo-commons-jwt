@@ -1,6 +1,6 @@
 # mmontaldo-commons-jwt
 
-**Librería común para proyectos Spring Boot con soporte de autenticación mediante JWT.**
+**Biblioteca común para proyectos Spring Boot con soporte de autenticación mediante JWT.**
 
 ## ✨ Características
 
